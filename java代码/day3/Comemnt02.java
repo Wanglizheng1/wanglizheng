@@ -1,4 +1,4 @@
-//注释使用演示
+package day3;//注释使用演示
 /**
  * @ author:wanglizheng
  * @ version: 1.0
