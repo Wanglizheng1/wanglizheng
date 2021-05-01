@@ -1,8 +1,5 @@
-
-package day10;
-import java.util.Scanner;
-
-//if的快速入门
+package day9;
+//if的练习
 public class IfExercise01 {
     public static void main(String[] args) {
         //编写程序，声明 2 个 double 型变量并赋值。
