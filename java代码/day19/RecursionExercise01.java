@@ -12,6 +12,7 @@ public class RecursionExercise01 {
 }
 
 class M{
+
     public int fibonacci(int n){
         if(n >= 1){
             if(n == 1 || n == 2){
