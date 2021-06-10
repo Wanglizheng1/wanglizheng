@@ -7,6 +7,7 @@ package day36;
 public class Eumeration01 {
     public static void main(String[] args) {
         System.out.println(Season.SPRING.name());
+        System.out.println(Season.SPRING.getDesc());
     }
 
 }
